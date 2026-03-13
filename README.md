@@ -14,7 +14,7 @@ An intelligent, empathetic RAG (Retrieval-Augmented Generation) agent that helps
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/vineethyadav110/Digital_Pharmacy_agent.git](https://github.com/vineethyadav110/Digital_Pharmacy_agent.git)
+   git clone [https://github.com/vineethyadav110/Digital_Pharmacy_agent.git]
    cd Digital_Pharmacy_agent
    
 2. Create and Activate a Virtual Environment:
